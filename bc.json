@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://rose-cuckoo-1xjzhqh3.ws-us03.gitpod.io",
+    "address": "https://lime-cockroach-rh6mqty5.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -90,7 +90,7 @@
         {
             "slug": "06-Anonymous-functions",
             "title": "06-Anonymous-functions",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Anonymous-functions",
             "translations": [
                 "es",
